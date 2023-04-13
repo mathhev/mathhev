@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathhev
 - 👀 I’m from Poland
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning JS
 - 📫 How to reach me: Discord => 𝖒𝖆𝖙𝖙𝖍𝖊𝖜🐢#1508
 
 <!---
